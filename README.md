@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in designing solutions based on Java Microservices and AWS/Azure clouds.
  
-- 🌱 I’m currently learning AWS Certified Solutions Architect Associate Certification SAA-C02
+- 🌱 I’m currently learning **AWS Certified Solutions Architect Associate Certification SAA-C02**
 
 - 💞️ I’m looking to collaborate on complex distributed, async, springboot microservies based projects from scatch.
 
