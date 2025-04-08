@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahesh More</h1>
 <h3 align="center">Java | Microservices | Spring Framework | AWS, Azure</h3>
 
-- 🔭 I’m currently working on **Discovery Health Platform** (https://www.discovery.co.za/portal/)
+- 🔭 I’ve worked on **Discovery Health Platform** (https://www.discovery.co.za/portal/)
 
-- 🌱 I’m currently learning **Microservices based solutions**
+- 🌱 I’m currently working **Microservices based solutions**
 
 - 👯 I’m looking to collaborate on **Solution Architecture & Design**
 
