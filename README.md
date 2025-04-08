@@ -3,7 +3,7 @@
 
 - 🔭 I’ve worked on **Discovery Health Platform** (https://www.discovery.co.za/portal/)
 
-- 🌱 I’m currently working **Microservices based solutions**
+- 🌱 I’m currently working on **Microservices based solutions**
 
 - 👯 I’m looking to collaborate on **Solution Architecture & Design**
 
